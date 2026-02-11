@@ -1,0 +1,1 @@
+This is a simple, responsive website built with HTML and CSS to advertise a catering service. It showcases menu options, services, contact information, and customer testimonials to attract potential clients for events like weddings, corporate gatherings, and parties.
